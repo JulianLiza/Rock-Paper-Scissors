@@ -1,7 +1,7 @@
 """ Set of functions to validate user input.
 
 Written by: Shannon Cleary
-Date: spring 2024
+Date: Spring 2024
 
 Functions:
 	get_int(prompt) - returns a valid integer (positive or negative).
